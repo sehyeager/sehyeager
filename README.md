@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sehyeager
+- 👋 Hi, I’m Samuel Yeager
 - 👀 I’m interested in data science, data engineering, and statistics.
 - 🌱 I’m currently growing my SQL and web-scraping skills.
 - 💞️ I’m looking to collaborate on exciting projects about space, health, and social justice.
